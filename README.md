@@ -11,7 +11,10 @@ This solution uses goog.io, They have free and commercial packages available.
 It is advised that you run the notebook in a sandbox or vm as it does involve downloading documents unchecked from the internet.
 
 Install the requirements
+
 `pip install -r requirements.txt`
+
 Run the notebook!
+
 `jupyer notebook`
 
