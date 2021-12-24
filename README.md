@@ -8,7 +8,12 @@ Docshots searches google for documents (docx) by query, downloads them and check
 
 This solution uses goog.io, They have free and commercial packages available.
 
-It is advised that you run the notebook in a sandbox or vm as it does involve downloading documents unchecked from the internet.
+It is advised that you run the notebook in a sandbox or vm as it does involve downloading untrusted documents from the internet.
+
+
+Clone the repository 
+`git clone `
+
 
 Install the requirements
 
@@ -16,5 +21,5 @@ Install the requirements
 
 Run the notebook!
 
-`jupyer notebook`
+`jupyter notebook`
 
