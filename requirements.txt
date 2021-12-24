@@ -1,0 +1,6 @@
+docx==0.8.11
+docx2txt==0.8
+dotenv
+requests==2.25.1
+tldextract==3.1.2
+wget==3.2
