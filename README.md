@@ -11,8 +11,9 @@ This solution uses goog.io, They have free and commercial packages available.
 It is advised that you run the notebook in a sandbox or vm as it does involve downloading untrusted documents from the internet.
 
 
-Clone the repository 
-`git clone `
+Clone the repository
+
+`git clone https://github.com/dfaram7/docshots.git`
 
 
 Install the requirements
